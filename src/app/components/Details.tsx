@@ -1,5 +1,5 @@
 import React from "react";
-import Header2 from "./Header2";
+
 import Image from "next/image";
 import Link from "next/link";
 

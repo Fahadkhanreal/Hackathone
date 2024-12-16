@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Header2 from '@/app/components/Header2'
+
 import ShopPage from '@/app/components/Shop'
 import Link from 'next/link'
 import Image from 'next/image'

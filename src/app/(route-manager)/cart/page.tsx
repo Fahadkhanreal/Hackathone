@@ -1,5 +1,5 @@
 import Cart from '@/app/components/Cart'
-import Header2 from '@/app/components/Header2'
+
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'

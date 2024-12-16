@@ -1,5 +1,4 @@
 import Bdetails from '@/app/components/Bdetails'
-import Header2 from '@/app/components/Header2'
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'

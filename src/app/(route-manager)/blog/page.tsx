@@ -1,7 +1,7 @@
 
 
 import Blog2 from '@/app/components/Blog2'
-import Header2 from '@/app/components/Header2'
+
 import Link from 'next/link'
 import React from 'react'
 import Image from 'next/image'

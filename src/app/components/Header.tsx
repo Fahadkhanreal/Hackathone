@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { IoSearch } from "react-icons/io5";
+
 import Link from 'next/link';
 
 const Header = () => {
